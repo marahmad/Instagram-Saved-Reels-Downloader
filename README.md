@@ -6,7 +6,6 @@ Instagram Reel Downloader is a Python-based tool that allows users to download s
 - Download Instagram Reels from an HTML file with saved links.
 - User-friendly graphical interface for easy interaction.
 - Designed for Windows 11 users but adaptable to other platforms.
-- Scalable solution leveraging modern AI tools like Lovable AI or Cursor AI for future enhancements.
 - This project is currently in development and is a great starting point for those looking to automate Instagram Reel downloading.
 
 ### Installation Instructions:
