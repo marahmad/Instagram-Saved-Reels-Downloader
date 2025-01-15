@@ -10,31 +10,13 @@ Instagram Reel Downloader is a Python-based tool that allows users to download s
 - This project is currently in development and is a great starting point for those looking to automate Instagram Reel downloading.
 
 ### Installation Instructions:
-Clone this repository to your local machine:
 
-> `git clone https://github.com/your-username/instagram-reel-downloader.git`
 
-Install the required dependencies using pip:
+**Click and Download .exe file in the repository.**
 
-Copy code
-
-> `pip install -r requirements.txt`
-
-Make sure you have the required Python version (Python 3.x).
-
-If you are using Windows 11, you may need to install additional drivers like ChromeDriver.
-
-You can now run the application from the command line:
-
-`
-
-> python main.py
-
-`
-**The graphical interface will open, allowing you to enter the HTML file with saved Instagram Reels links and download them easily.**
 
 ### How to Use:
-- Open the application by running the script or executing the app.
+- Open the application by running the  executable.
 - Select the path to your HTML file containing saved Instagram Reels links.
 - Click on the **'Download'** button to begin downloading the Reels.
 - The downloaded Reels will be saved to your default **Download** folder, or you can choose the folder location.
@@ -49,7 +31,6 @@ You can now run the application from the command line:
 
 
 ### Contributing:
-
 Feel free to contribute to this project by forking the repository and submitting a pull request.
 
 Here’s how you can contribute:
